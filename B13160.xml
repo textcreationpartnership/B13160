@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning tin, and to restrain the importation thereof from forreign parts.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13160</idno><idno type="EEBO-CITATION">99892712</idno>
+  <idno type="VID">188378</idno>
+  <idno type="EEBO-PROQUEST">2240932257</idno>
+  
+            <idno type="STC">STC 9134</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[26]</idno>
+            <idno type="STC">ESTC S123888</idno>
+            <idno type="PROQUEST">ocm99892712</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892712e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188378)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning tin, and to restrain the importation thereof from forreign parts.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1638. [i.e. 1639]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Published date is given according to Lady Day dating.</note>
+                  <note>Dated at end of text: ... VVestminster, the nineteenth day of February, in the fourteenth yeer of Our reign.</note>
+                  <note>Arms 24; Steele notation: Tin howsoever 2) Tin parts.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tin --  Early works to 1800.</term>
+               <term type="topical_term">Import quotas --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188378:1"/>
+            <head>
+               <figure>
+                  <figDesc>England's royal coat of arms, 1638</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation concerning Tin, and to restrain the Importation thereof from forreign parts.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas for the better securing to Us the preemption of the Tin</hi> of this Kingdom, being an ancient and undoubted hereditary Re<g ref="char:EOLhyphen"/>venue annexed to Our Crown in right of Our Duchy of <hi>Cornwall,</hi> divers good Customs, laws and ordinances by the wisdom of for<g ref="char:EOLhyphen"/>mer times have been established, amongst which it is specially pro<g ref="char:EOLhyphen"/>vided, That all the said Tinne should be duly brought to Our Coynage Houses in Our Counties of <hi>Devon</hi> and <hi>Cornwall,</hi> there to be Tried, Assayed, Prized and Sealed, before the same be put to sale within the land, or offered to be shipped for forreign vent; And howsoever by Our Proclamation of the two and twentieth of Ianuary, in the ninth yeer of Our Reign, Wee required of Our Subjects a just observa<g ref="char:EOLhyphen"/>tion of those ordinances; Yet finding that by secret practise and combination of sundry ill minded owners, and workmen of the said Tin and Tin-works, a great part of the said Tinn hath been, and still is bought and sold, received, delivered, and carried away uncoyned, aswell in ships and other vessels (which under colour of coming to buy Cornish Slate and Stone, and such like occasions upon the coast of <hi>Cornwall,</hi> do imbezill much uncoyned Tin in Blocks) as also by Mariners and Sea-faring men, who buy up the Tin in Barres com<g ref="char:EOLhyphen"/>monly called pocket Tinn, of blowers and melters of Tin, and others, contrary to the an<g ref="char:EOLhyphen"/>cient ordinances of Our Stannaries, to Our prejudice and wrong in Our said Revenue, and disgracing of the commodity, and abuse of Our Subjects buying the same untried, and not assayed; For reformation of which disorders and abuses for the time to come, We have thought fit once more to declare Our Royall pleasure in the premisses, wherein as Wee ex<g ref="char:EOLhyphen"/>pect all due conformity and obedience, so Wee shall extend the rigour of Our lawes, and all just severity against such as shall hereafter offend therein.</p>
+            <p>And therefore Wee do by these presents straitly charge &amp; command, aswell all and singuler Our loving Subjects, as all other person &amp; persons whatsoever, that none of them presume upon any colour, shift, or pretence whatsoever, at any time or times hereafter to utter, sell, deliver, or put to sale, or to receive, ship, carry, land, or contract for any Block Tin un<g ref="char:EOLhyphen"/>blown, but such as cause the same to be Cast, Melted down, and Blown, and brought to
+<pb facs="tcp:188378:2"/>the place of Coynage before it be sold for use, nor to sell, give, barter, or utter any White Tin or Cast Tin, before it be first coyned and stamped with Our Seal or mark appointed for that purpose, as aforesaid.</p>
+            <p>And that no person or persons whatsoever, other then Our Farmors of the said Tin, do from henceforth presume to ship or lade any Tin, of what kinde soever to be transported or carried out of this Our Realm or Dominion to any forreign parts, without the assent of Our said Tin-Farmers, therein first had in writing, under the pain of the losse and forfeiture aswell of the said Tin, as also of confiscation of the Ships, Hoys, Barques, Lighters, and other vessels wherein any such prohibited Tin shall be shipped or laden for transportation contrary to the intendment of this Our Proclamation, and also upon pain of Our high dis<g ref="char:EOLhyphen"/>pleasure, and of such further penalties, forfeitures and punishments, as by the Statutes and Ordinances of Our said Stannaries, or any other Law or Statute whatsoever, or by the Censure of Our high Court of Star-chamber, for disobeying this Our Royall Com<g ref="char:EOLhyphen"/>mandment and Injunction, or otherwise may be inflicted upon the offenders in this be<g ref="char:EOLhyphen"/>half.</p>
+            <p>And where We have lately granted to some of Our loving Subjects the emption or pre<g ref="char:EOLhyphen"/>emption of Tin, during a term unexpired, and for relief of poor Pewterers of the Citie of <hi>London,</hi> have provided, That if the said Lessees or Farmers shall be minded to transport any Tin in Bars, they shal imploy the said Pewterers of <hi>London,</hi> or some such of them whom Our said Farmers shall nominate, for the casting of Tin out of Blocks into Bars, at such places as We shall appoint: And in default of such appointment at such places as Our said Far<g ref="char:EOLhyphen"/>mers shall appoint; sithence which time many have presumed to cast Tin into Bars, both in the Counties of <hi>Cornwall</hi> and <hi>Devon,</hi> and elswhere, which is a means that a great part there<g ref="char:EOLhyphen"/>of is the more easily conveyed from place to place, and vented before the Coynage of the same. And also divers Pewterers of <hi>London</hi> who have not been authorized by Our said Far<g ref="char:EOLhyphen"/>mers, have (contrary to Our agreement with them) presumed to cast Tin into Bars, and others then our Farmers have by means thereof opportunity to transport the same contra<g ref="char:EOLhyphen"/>ry to Our Covenants with Our said Tin-Farmers. Wee do therefore straitly charge and command all person and persons whatsoever, that none of them (other then such of the Pewterers of Our City of <hi>London,</hi> as shall be nominated by the Farmers of the emption or preemption of Tin for the time being) do presume hereafter to cast any Tin into Bars, and that none of them do cast any Tin into Bars, but in the Citie of <hi>London;</hi> And that onely in such houses and places of melting, as shall be designed or allowed of by Our said Farmers, upon the pains to be inflicted upon contemners of Our commands, in Our Court of Star-chamber, and otherwise.</p>
+            <p>And Wee do further hereby straightly charge and command, That no Merchants, Ma<g ref="char:EOLhyphen"/>riners, or other person or persons whatsoever, do hereafter import, convey, or bring, or cause to be imported, conveyed, or brought into our Realm of <hi>England,</hi> and Dominion of <hi>Wales,</hi> or either of them, any Tin of what kinde soever from any the parts beyond the Seas, up<g ref="char:EOLhyphen"/>on pain of the losse and forfeiture, aswell of the said Tin, as of the ships or vessels wherin the same shall be shipped or conveyed; and upon such further penalties, and punishments as shall be meet for such contempt, or neglect of Our Royall commands.</p>
+            <p>And lastly, We do require and command, That Our said Proclamation formerly publish<g ref="char:EOLhyphen"/>ed concerning Tin, be hereafter duely observed in all the particular Branches and parts thereof, under the pains and penalties therein expressed.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Palace of Westminster, <date>the nineteenth day of February, in the four<g ref="char:EOLhyphen"/>teenth yeer of Our Reign.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
